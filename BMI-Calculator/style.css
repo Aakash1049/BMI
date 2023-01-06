@@ -1,0 +1,45 @@
+.BMI{
+    background-color: lightgray;
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 5rem;
+}
+.age-error{
+    background-color: lightcoral;
+    visibility: hidden;
+}
+.mass-error{
+    background-color: lightcoral;
+    visibility: hidden;
+}
+.height-error{
+    background-color: lightcoral;
+    visibility: hidden;
+}
+.flex{
+    display: flex;
+    margin: 10rem;
+    margin-left:12rem;
+}
+.result{
+    margin: 5rem;
+}
+.result h2{
+    background-color: green;
+    width: 250px;
+    padding: 5px;
+}
+#calculate{
+    background-color: green;
+    padding: 3px 6px;
+    border: none;
+    color: white;
+    font-size: larger;
+}
+#clear{
+    background-color: grey;
+    padding: 3px 6px;
+    border: none;
+    color: white;
+    font-size: larger;
+}
